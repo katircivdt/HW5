@@ -1,5 +1,7 @@
 # HW5
 
+> main.py contains the runnable code for backend and fronted parts of functionalities 1 & 4
+
 > "function1.ipynb" contains the backend and fronted parts of functionality 1.
 
 > "function2.ipynb" contains the theory for functionality 2.
